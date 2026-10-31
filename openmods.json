@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Loot Glow Amplified",
+  "summary": "Brighter and larger glow over loot piles and chests. Brightness and size are set in config.lua, live in game.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["effects", "quality-of-life"],
+  "requires": ["UE4SS (tested with v3.0.1-1188-gf885e8d2)"],
+  "gameVersions": ["Release (Steam build 26266538)"],
+  "cover": "docs/cover.png"
+}

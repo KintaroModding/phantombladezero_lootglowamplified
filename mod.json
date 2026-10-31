@@ -1,0 +1,14 @@
+{
+  "name": "Loot Glow Amplified",
+  "folder": "phantombladezero_lootglowamplified",
+  "author": "Kintaro",
+  "version": "1.2",
+  "description": "Brighter and larger glow over world loot: loot piles, notes and chests. Brightness, size, chests and items are set in config.lua, live in game.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-301524_JKS-17219",
+  "engine": "UE5_7",
+  "ue4ss": "v3.0.1-1188-gf885e8d2"
+}
